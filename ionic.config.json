@@ -1,0 +1,7 @@
+{
+  "name": "fracApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
